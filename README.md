@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://wizdev0.github.io/NFT.com/)
+- Live Site URL: (https://wizdev0.github.io/stats-card/)
 
 ## My process
 
